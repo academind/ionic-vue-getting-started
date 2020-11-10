@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "vue-first-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
